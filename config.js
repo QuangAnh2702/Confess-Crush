@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Cóa yêu nhìu lắm,nhiều đến nỗi diễn tả được😘😘',
     mess: 'Sời anh biết mà 🥰. Anh cũng yêu Linh nhiều nhiều nhắm luônnn 😘😘',
     messDesc: 'Vậy tối nay 9h gặp nhau cho hun cái nhoaa😁.',
-    btnAccept: 'Dạ đc lun anh iu êyyy^^',
+    btnAccept: 'Dạ đc lun anh iu êyy^^',
     messLink: 'https://www.facebook.com/q.anh.ny.linh'
 }
